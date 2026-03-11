@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Straton-Finance/Straton/main/apps/web/public/brand/logo-vertical-color.png" alt="Straton" width="180" />
+  <img src="./logo.png" alt="Straton" width="180" />
 </p>
 
 <h3 align="center">Institutional RWAFi Platform</h3>
@@ -24,7 +24,7 @@ Straton is a regulated platform for tokenizing real-world assets (RWA) on the Ba
 
 ### Tech Stack
 
-`Solidity` · `Foundry` · `Next.js` · `TypeScript` · `Supabase` · `wagmi` · `viem` · `Base L2`
+Solidity · Foundry · Next.js · TypeScript · Supabase · wagmi · viem · Base L2
 
 ---
 
