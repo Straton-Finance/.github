@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Straton" width="180" />
+  <img src="https://raw.githubusercontent.com/Straton-Finance/.github/main/profile/logo.png" alt="Straton" width="180" />
 </p>
 
 <h3 align="center">Institutional RWAFi Platform</h3>
